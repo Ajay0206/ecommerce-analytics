@@ -193,6 +193,21 @@ categories ──< products ──< order_items >── orders >── customers
 - **JOINs** across all 6 normalised tables
 
 ---
+## 📸 Dashboard Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](Screenshots/page1_executive.png)
+
+### Sales Dashboard
+![Sales Dashboard](Screenshots/page2_sales.png)
+
+### Customer Dashboard
+![Customer Dashboard](Screenshots/page3_customer.png)
+
+### Product Dashboard
+![Product Dashboard](Screenshots/page4_product.png)
+
+---
 
 ## 👤 Author
 
